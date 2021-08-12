@@ -1,3 +1,2 @@
-# 6-Stage-Pipelined-RISC-Processor
-6 Stage Pipelined 16 bit RISC Processor(8 register) with 15 instructions includes load, strore instructions. Implemented major blocks including forwarding unit, branch prediction unit for optimizing performance. The 6 stages are Instruction fetch, instruction decode, register	
-read, execute, memory access, and write back. The entire design is implemented in Verilog HDL and verified through simulation in ModelSim with various combinations of instructions 
+# 5-Stage-Pipelined-RISC-Processor
+5 Stage Pipelined 16 bit RISC Processor(8 register) with 19 instructions includes load, strore instructions. Implemented major blocks including forwarding unit, branch prediction unit for optimizing performance. The 5 stages are Instruction fetch, instruction decode, execute, memory access, and write back. The entire design is implemented in Verilog HDL and verified through simulation in ModelSim with various combinations of instructions 
